@@ -1,0 +1,36 @@
+{
+
+  "type": "module",
+
+  "devDependencies": {
+
+    "@types/node": "^22.3.0",
+
+    "@types/uuid": "^10.0.0"
+
+  },
+
+  "dependencies": {
+
+    "amqplib": "^0.10.4",
+
+    "base32-encode": "^2.0.0",
+
+    "crypto": "^1.0.0",
+
+    "form-data": "^4.0.0",
+
+    "module_name": "^1.0.0",
+
+    "mysql": "^2.18.1",
+
+    "reflect-metadata": "^0.2.2",
+
+    "typeorm": "^0.3.20",
+
+    "uuid": "^10.0.0"
+
+  }
+
+}
+

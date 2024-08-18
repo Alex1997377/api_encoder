@@ -1,0 +1,21 @@
+# npm install --save requirements.txt
+
+typescript @latest
+
+@types/node @latest
+
+@types/uuid @latest
+
+amqplib @latest
+
+base32-encode @latest
+
+crypto @latest
+
+form-data @latest
+
+module_name @latest
+
+reflect-metadata @latest
+
+uuid @latest
