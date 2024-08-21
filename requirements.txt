@@ -19,3 +19,9 @@ module_name @latest
 reflect-metadata @latest
 
 uuid @latest
+
+dotenv @latest
+
+@jvhaile/zod-env @latest
+
+moment @latest
