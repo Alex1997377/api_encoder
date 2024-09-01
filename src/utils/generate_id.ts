@@ -12,7 +12,6 @@ function getChecksumCharacter(checksumValue: number): string {
     return alphabet[Math.abs(checksumValue)]
 }
 
-// Генерация уникального id пользователя
 export function generateBase32EncodedUuid(): string {
     const b: Buffer = Buffer.alloc(16)
     uuidv4(null, b)

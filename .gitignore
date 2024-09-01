@@ -1,7 +1,5 @@
 node_modules/
-*.js
-*.d.ts
+build/
 package-lock.json
 tsconfig.json
 env.ts
-!index.js

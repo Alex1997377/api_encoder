@@ -1,5 +1,5 @@
 import { connect } from "amqplib/callback_api.js";
-import { user } from "../generate_id/src/services/send_mail.js"
+import { user } from "./src/services/send_mail.js"
 import { serialize } from "v8";
  
 
